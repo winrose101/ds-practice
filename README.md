@@ -1,4 +1,4 @@
-# opentechschool-ds-practice
+# andela_hs-ds-practice
 DS practice from opentechschool 
 The link is http://opentechschool.github.io/python-data-intro/core/data.html
 I got it from the Andela Homestudy site which is http://github.andela.com/homestudy/
